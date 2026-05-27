@@ -9,7 +9,7 @@ Do you want a workspace to highlight and note scriptures?
 Look No Further
 📖BIBLIA
 🪟Windows & Mac🍎 Versions are Now available!
-
+https://montana-jay.itch.io/biblia-a-ai-kjv-bible-reader-search-index
 
 You will need to pull ollama models for AI to work
 https://ollama.com/download
